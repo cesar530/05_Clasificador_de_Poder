@@ -134,10 +134,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👤 Autor
 
-**César Delgado**
-- Portfolio: [Tu Portfolio]
-- LinkedIn: [Tu LinkedIn]
-- GitHub: [Tu GitHub]
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
 
 ---
 *Proyecto desarrollado como parte de un portafolio profesional de Data Science y Machine Learning.*
